@@ -5,6 +5,9 @@ Modern data pipeline leveraging Azure services for end-to-end data processing an
 
 ## Pipeline Flow
 
+<img width="1183" alt="Screenshot 2024-11-19 at 3 37 31 PM" src="https://github.com/user-attachments/assets/7b3d9e04-db14-4166-9779-e828883161d9">
+
+
 ### 1. Data Ingestion
 - **Data Source** → Various input sources (databases, files, APIs)
 - **Azure Data Factory** → Orchestrates data movement
